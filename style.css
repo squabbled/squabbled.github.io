@@ -5,6 +5,8 @@ p    {color: white;}
  font-size: 100%;
  font-family: Comfortaa;
 }
+ @font-face { font-family: Comfortaa; src: url('/fonts/Comfortaa-Regular.ttf'); } 
+ @font-face { font-family: Comfortaa; font-weight: regular; src: url('/fonts/Comfortaa-Regular.ttf');}
 
 .topnav {
   background-color: #17ACFE;
