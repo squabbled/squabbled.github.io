@@ -1,7 +1,0 @@
-User-Agent: *
-Allow: /projects
-Allow: /blog
-Allow: /
-Disallow: /dontgohere
-Disallow: /fonts
-
