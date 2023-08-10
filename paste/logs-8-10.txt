@@ -1,0 +1,79 @@
+[8:00:52 AM WARN] [MinecraftServer] Can't keep up! Is the server overloaded? Running 6316ms or 126 ticks behind
+[8:00:52 AM WARN] [PlayerConnection] Boat (vehicle of Luke_65) moved too quickly! 19.156189810767955,0.0,6.018188872977589
+[8:00:53 AM WARN] [PlayerConnection] Boat (vehicle of Luke_65) moved too quickly! 19.41743840345862,0.0,5.572785627062103
+[8:00:53 AM WARN] [PlayerConnection] Boat (vehicle of Luke_65) moved too quickly! 19.764438543660617,0.0,5.766545050289835
+[8:01:09 AM ERROR] [Minecraft] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-116 (MC: 1.20.1) ---
+[8:01:09 AM ERROR] [Minecraft] The server has not responded for 10 seconds! Creating thread dump
+[8:01:09 AM ERROR] [Minecraft] ------------------------------
+[8:01:09 AM ERROR] [Minecraft] Server thread dump (Look for plugins here before reporting to Paper!):
+[8:01:14 AM ERROR] [Minecraft] Ticking entity: minecraft:cow, entity class: net.minecraft.world.entity.animal.EntityCow
+[8:01:15 AM ERROR] [Minecraft] Entity status: removed: false, valid: true, alive: true, is passenger: false
+[8:01:17 AM ERROR] [Minecraft] Entity UUID: 82f0606a-0887-4b58-a8e8-4c5758da3ea3
+[8:01:43 AM ERROR] [Minecraft] Position: world: 'world' at location (-462.92500001192093, 72.0, -1584.0353017947878)
+[8:01:43 AM INFO] [PlayerConnection] Magic_Cee lost connection: Timed out
+[8:01:51 AM WARN] [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 57.430060ms. Summary: Getting prefix for Magic_Cee
+[8:01:52 AM ERROR] [Minecraft] Velocity: (0.0, -0.0784000015258789, 0.0) (in blocks per tick)
+[8:01:52 AM WARN] [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 41.949903ms. Summary: Getting suffix for Magic_Cee
+[8:02:09 AM WARN] [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 746.269843ms. Summary: Getting prefix for Magic_Cee
+[8:02:09 AM WARN] [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 78.198114ms. Summary: Getting suffix for Magic_Cee
+[8:02:13 AM INFO] [TAB] [WARN] CPU usage of the plugin is 115%. This will cause problems. Check /tab cpu to find out why.
+[8:02:27 AM INFO] [TAB] [WARN] CPU usage of placeholder %memory-used% is 40%. It will most likely cause problems. Try increasing refresh interval.
+[8:02:43 AM INFO] [TAB] [WARN] CPU usage of placeholder %memory-used% is 39%. It will most likely cause problems. Try increasing refresh interval.
+[8:03:03 AM INFO] [TAB] [WARN] CPU usage of placeholder %memory-used% is 65%. It will most likely cause problems. Try increasing refresh interval.
+[8:03:09 AM INFO] [TAB] [WARN] CPU usage of the plugin is 109%. This will cause problems. Check /tab cpu to find out why.
+[8:03:11 AM INFO] [MinecraftServer] Magic_Cee left the game
+[8:03:19 AM INFO] [PlayerConnection] Luke_65 lost connection: Disconnected
+[8:04:08 AM WARN] [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 2615.055289ms. Summary: Getting prefix for Luke_65
+[8:04:09 AM INFO] [TAB] [WARN] CPU usage of placeholder %memory-used% is 32%. It will most likely cause problems. Try increasing refresh interval.
+[8:04:12 AM WARN] [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 216.478401ms. Summary: Getting suffix for Luke_65
+[8:04:12 AM INFO] [TAB] [WARN] CPU usage of the plugin is 158%. This will cause problems. Check /tab cpu to find out why.
+[8:04:38 AM INFO] [TAB] [WARN] CPU usage of placeholder %memory-used% is 49%. It will most likely cause problems. Try increasing refresh interval.
+[8:04:39 AM INFO] [TAB] [WARN] CPU usage of the plugin is 114%. This will cause problems. Check /tab cpu to find out why.
+[8:04:56 AM INFO] [TAB] [WARN] CPU usage of placeholder %memory-used% is 32%. It will most likely cause problems. Try increasing refresh interval.
+[8:07:12 AM ERROR] [WebhookClient] There was some error while sending a webhook message
+[8:07:12 AM INFO] [MinecraftServer] Luke_65 left the game
+[8:07:12 AM ERROR] [Minecraft] Entity AABB: AABB[-463.375, 72.0, -1584.4853017828668] -> [-462.47500002384186, 73.39999997615814, -1583.5853018067087]
+[8:07:12 AM ERROR] [Minecraft] ------------------------------
+[8:07:12 AM ERROR] [Minecraft] Current Thread: Server thread
+[8:07:12 AM ERROR] [Minecraft] PID: 27 | Suspended: false | Native: true | State: RUNNABLE
+[8:07:12 AM ERROR] [Minecraft] Stack:
+[8:07:12 AM INFO] [LoginListener] com.mojang.authlib.GameProfile@7899ec31[id=<null>,name=Luke_65,properties={},legacy=false] (/91.242.248.4:54050) lost connection: Disconnected
+[8:07:12 AM INFO] [LoginListener] com.mojang.authlib.GameProfile@4138b8a8[id=<null>,name=Luke_65,properties={},legacy=false] (/91.242.248.4:54133) lost connection: Disconnected
+[8:07:12 AM ERROR] [Minecraft] java.base@17.0.8/java.io.RandomAccessFile.writeBytes(Native Method)
+[8:07:12 AM ERROR] [Minecraft] java.base@17.0.8/java.io.RandomAccessFile.write(RandomAccessFile.java:558)
+[8:07:12 AM ERROR] [Minecraft] mcMMO.jar//com.gmail.nossr50.util.blockmeta.McMMOSimpleRegionFile.write(McMMOSimpleRegionFile.java:136)
+[8:07:12 AM ERROR] [Minecraft] mcMMO.jar//com.gmail.nossr50.util.blockmeta.McMMOSimpleRegionFile$McMMOSimpleChunkBuffer.close(McMMOSimpleRegionFile.java:127)
+[8:07:12 AM ERROR] [Minecraft] java.base@17.0.8/java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:249)
+[8:07:12 AM ERROR] [Minecraft] java.base@17.0.8/java.io.FilterOutputStream.close(FilterOutputStream.java:188)
+[8:07:12 AM ERROR] [Minecraft] mcMMO.jar//com.gmail.nossr50.util.blockmeta.HashChunkManager.writeChunkStore(HashChunkManager.java:60)
+[8:07:12 AM ERROR] [Minecraft] mcMMO.jar//com.gmail.nossr50.util.blockmeta.HashChunkManager.unloadChunk(HashChunkManager.java:111)
+[8:07:12 AM ERROR] [Minecraft] mcMMO.jar//com.gmail.nossr50.util.blockmeta.HashChunkManager.chunkUnloaded(HashChunkManager.java:125)
+[8:07:12 AM ERROR] [Minecraft] mcMMO.jar//com.gmail.nossr50.listeners.WorldListener.onChunkUnload(WorldListener.java:67)
+[8:07:12 AM ERROR] [Minecraft] com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor171.execute(Unknown Source)
+[8:07:12 AM ERROR] [Minecraft] org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77)
+[8:07:12 AM ERROR] [Minecraft] co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[8:07:12 AM ERROR] [Minecraft] org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[8:07:12 AM ERROR] [Minecraft] io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[8:07:12 AM ERROR] [Minecraft] io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[8:07:12 AM ERROR] [Minecraft] org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[8:07:12 AM ERROR] [Minecraft] net.minecraft.world.level.chunk.LevelChunk.unloadCallback(LevelChunk.java:915)
+[8:07:12 AM ERROR] [Minecraft] net.minecraft.world.level.chunk.LevelChunk.onChunkUnload(LevelChunk.java:842)
+[8:07:12 AM ERROR] [Minecraft] io.papermc.paper.chunk.system.scheduling.NewChunkHolder.handleFullStatusChange(NewChunkHolder.java:1373)
+[8:07:12 AM ERROR] [Minecraft] io.papermc.paper.chunk.system.scheduling.ChunkHolderManager.processPendingFullUpdate(ChunkHolderManager.java:1382)
+[8:07:12 AM ERROR] [Minecraft] io.papermc.paper.chunk.system.scheduling.ChunkHolderManager.processTicketUpdates(ChunkHolderManager.java:1366)
+[8:07:12 AM ERROR] [Minecraft] io.papermc.paper.chunk.system.scheduling.ChunkHolderManager.processTicketUpdates(ChunkHolderManager.java:1319)
+[8:07:12 AM ERROR] [Minecraft] io.papermc.paper.chunk.system.scheduling.ChunkHolderManager.tick(ChunkHolderManager.java:783)
+[8:07:12 AM ERROR] [Minecraft] net.minecraft.server.level.DistanceManager.purgeStaleTickets(DistanceManager.java:63)
+[8:07:12 AM ERROR] [Minecraft] net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:492)
+[8:07:12 AM ERROR] [Minecraft] net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:827)
+[8:07:12 AM ERROR] [Minecraft] net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1557)
+[8:07:12 AM ERROR] [Minecraft] net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447)
+[8:07:12 AM ERROR] [Minecraft] net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394)
+[8:07:12 AM ERROR] [Minecraft] net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171)
+[8:07:12 AM ERROR] [Minecraft] net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318)
+[8:07:12 AM ERROR] [Minecraft] net.minecraft.server.MinecraftServer$$Lambda$4628/0x00007fd100a29848.run(Unknown Source)
+[8:07:12 AM ERROR] [Minecraft] java.base@17.0.8/java.lang.Thread.run(Thread.java:833)
+[8:07:12 AM ERROR] [Minecraft] ------------------------------
+[8:07:12 AM ERROR] [Minecraft] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[8:07:12 AM ERROR] [Minecraft] ------------------------------
+[8:07:13 AM WARN] [MinecraftServer] Can't keep up! Is the server overloaded? Running 352927ms or 7058 ticks behind
