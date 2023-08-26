@@ -1,6 +1,14 @@
 User-agent: GPTBot
 Disallow: /
+
+User-agent: SemrushBot-CT
+Disallow: / 
+
 User-Agent: *
-Disallow: /fonts/ 
+Disallow: /fonts/
 Disallow: /abuseipdb-verification.html
 Disallow: /style.css
+Disallow: /blog/style.css
+Disallow: /wp-login.php
+Disallow: /.git/
+Disallow: /s3/
