@@ -12,3 +12,4 @@ Disallow: /blog/style.css
 Disallow: /wp-login.php
 Disallow: /.git/
 Disallow: /s3/
+Disallow: /assets/
