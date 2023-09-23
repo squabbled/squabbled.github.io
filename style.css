@@ -4,6 +4,12 @@ font-size: 40px;}
 h2   {color: white;}
 h3   {color: white;}
 p    {color: white;}
+a:visited {
+  color: green;
+}
+a:link {
+color:lime;
+}
 * {
  font-size: 100%;
  font-family: Comfortaa;
