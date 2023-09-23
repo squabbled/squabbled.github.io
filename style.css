@@ -36,12 +36,14 @@ border-radius: 25px;
 }
 
 body {
-background-color: black;
-background: url("https://upload.wikimedia.org/wikipedia/commons/f/f2/Colorful_galaxy_%28Unsplash%29.jpg");
-background-size: cover;
-background-repeat: no-repeat;
-padding-bottom: 100%; 
+  background-color: black;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f2/Colorful_galaxy_%28Unsplash%29.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
 }
+
+
 
 
 .topnav {
