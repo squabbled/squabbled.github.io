@@ -1,9 +1,9 @@
 
-h1   {color: white;
+h1   {color: black;
 font-size: 40px;}
-h2   {color: white;}
-h3   {color: white;}
-p    {color: white;}
+h2   {color: black;}
+h3   {color: black;}
+p    {color: black;}
 a:visited {
   color: green;
 }
