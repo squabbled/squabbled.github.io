@@ -5,10 +5,10 @@ h2   {color: black;}
 h3   {color: black;}
 p    {color: black;}
 a:visited {
-  color: green;
+  color: light-blue;
 }
 a:link {
-color:lime;
+color: dark-blue;
 }
 * {
  font-size: 100%;
@@ -55,7 +55,7 @@ body {
 .topnav {
  width: 70%;
  margin: auto; 
-  background-image: url("https://u.cubeupload.com/squabbled/a36topbar.png");
+  background-image: url("https://www.squabbled.net/assets/topbar.png");
   background-repeat: repeat-x;
   background-position: center center;
   overflow: hidden;

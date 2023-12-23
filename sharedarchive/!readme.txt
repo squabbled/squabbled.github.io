@@ -1,0 +1,1 @@
+This folder contains some free open source projects that I'm preserving. Let me know if you want anything taken down, but everything here is legal and open-source.
